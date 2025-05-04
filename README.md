@@ -212,33 +212,3 @@ yarn build
 ```
 *(The output is usually in a `dist` or `build` folder).*
 
-*Add details about:*
-* Environment variable configuration for production.
-* Database setup/migration in production.
-* Web server configuration (e.g., Nginx, Apache).
-* Deployment commands or CI/CD pipeline setup.
-
-## Contributing
-
-Outline guidelines for contributing to the project. This might include:
-
-* How to report bugs or suggest features (e.g., GitHub Issues).
-* Coding standards or style guides to follow.
-* The process for submitting pull requests (forking, branching, testing).
-* Link to a `CONTRIBUTING.md` file for more detailed information if needed.
-
-## License
-
-Specify the project's license.
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-*(Adjust the license type and link as appropriate)*
-
-## Contact
-
-Provide contact information for the project maintainer(s) or a way to get support.
-
-* Project Maintainer: [Your Name/Organization Name](link-to-profile-or-website)
-* Email: your.email@example.com
-* Project Link: [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
-
