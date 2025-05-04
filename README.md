@@ -1,7 +1,6 @@
 # Sample Apis conncted with frontend ui
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Expo version](https://img.shields.io/badge/expo-~52.0.33-blue)
 ![React Native version](https://img.shields.io/badge/react--native-0.76.6-blue)
 ![TypeScript](https://img.shields.io/badge/typescript-^5.3.3-blue)
 
